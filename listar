@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>
+    Ejemplo de recogida de datos sin comprobación (Resultado).
+    Recogida de datos. Ejemplos.
+    Ejercicios. PHP. Bartolomé Sintes Marco. www.mclibre.org
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="mclibre-php-ejercicios.css" title="Color">
+</head>
+
+<body>
+  <h1>Ejemplo de recogida de datos sin comprobación (Resultado)</h1>
+  <p>Su nombre es <strong>Pepito Conejo</strong>.</p>
+
+  <p>Su edad es <strong>4</strong> años.</p>
+  <p><a href="ejemplo_recogida_datos_1-1.php">Volver al formulario.</a></p>
+
+  <footer>
+    <p class="ultmod">
+      Última modificación de esta página:
+      <time datetime="2016-10-26">26 de octubre de 2016</time>
+    </p>
+
+    <p class="licencia">
+      Este programa forma parte del curso <strong><a href="https://www.mclibre.org/consultar/php/">Programación
+      web en PHP</a></strong> de <a href="https://www.mclibre.org/" rel="author" >Bartolomé Sintes Marco</a>.<br>
+      El programa PHP que genera esta página se distribuye bajo
+      <a rel="license" href="http://www.gnu.org/licenses/agpl.txt">licencia AGPL 3 o posterior</a>.
+    </p>
+  </footer>
+</body>
+</html>
